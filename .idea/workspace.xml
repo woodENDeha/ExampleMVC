@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakePresetLoader"><![CDATA[{
   "useNewFormat": true
 }]]></component>
@@ -17,12 +20,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7373186d-7e85-4f14-8581-52cc33463b18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/game_controller.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_controller.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_model.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_model.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+    <list default="true" id="7373186d-7e85-4f14-8581-52cc33463b18" name="Changes" comment="Added example classes">
+      <change afterPath="$PROJECT_DIR$/game_view.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_view.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_controller.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/game_controller.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_controller.h" beforeDir="false" afterPath="$PROJECT_DIR$/game_controller.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +62,10 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -85,11 +94,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679671056131</updated>
-      <workItem from="1679671057413" duration="124000" />
+      <workItem from="1679671057413" duration="1403000" />
     </task>
+    <task id="LOCAL-00001" summary="Added example classes">
+      <created>1679671315380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679671315380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added example classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added example classes" />
   </component>
 </project>
