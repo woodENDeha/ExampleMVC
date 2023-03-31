@@ -16,6 +16,10 @@ void game_controller::launch() {
             this->model.add_points(1);
             this->view.update();
         }
+        if (key == 32) {
+            this->model.add_points(2);
+            this->view.update();
+        }
     }
     while (key != 27);
 }
